@@ -1,5 +1,6 @@
 # Kafka Container
-This is a repository containing Dockerfile to build and start Apache Kafka without a pain
+This is a repository containing Dockerfile to build and start Apache Kafka without a pain.
+
 Tool for easy development or kafka testing. Producing and Consuming from host machine via localhost:9092
 
 ### To start this container as a deamon just run
